@@ -1,2 +1,2 @@
-let user = 'Bukky';
-let message = 'Hello';
+function add(value1, value2) { return value1 + value2 }
+add (10, 20)
